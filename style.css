@@ -1,0 +1,20 @@
+body{
+    background-color: #4e494e;
+    color: #FFFFFFFF;
+    text-align: center;
+}
+
+
+
+.italico{
+    font-style:italic; 
+}
+.subtitulo{
+    color: #f3af31;
+}
+.cabecalho{
+    border-bottom: 1px solid gray;
+}
+.rodape{
+    border-top: 1px solid gray;
+}
